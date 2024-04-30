@@ -1,0 +1,14 @@
+C:\gitProjects\March2024Project\GitDemo\bin\Debug\net8.0\GitDemo.exe
+C:\gitProjects\March2024Project\GitDemo\bin\Debug\net8.0\GitDemo.deps.json
+C:\gitProjects\March2024Project\GitDemo\bin\Debug\net8.0\GitDemo.runtimeconfig.json
+C:\gitProjects\March2024Project\GitDemo\bin\Debug\net8.0\GitDemo.dll
+C:\gitProjects\March2024Project\GitDemo\bin\Debug\net8.0\GitDemo.pdb
+C:\gitProjects\March2024Project\GitDemo\obj\Debug\net8.0\GitDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitProjects\March2024Project\GitDemo\obj\Debug\net8.0\GitDemo.AssemblyInfoInputs.cache
+C:\gitProjects\March2024Project\GitDemo\obj\Debug\net8.0\GitDemo.AssemblyInfo.cs
+C:\gitProjects\March2024Project\GitDemo\obj\Debug\net8.0\GitDemo.csproj.CoreCompileInputs.cache
+C:\gitProjects\March2024Project\GitDemo\obj\Debug\net8.0\GitDemo.dll
+C:\gitProjects\March2024Project\GitDemo\obj\Debug\net8.0\refint\GitDemo.dll
+C:\gitProjects\March2024Project\GitDemo\obj\Debug\net8.0\GitDemo.pdb
+C:\gitProjects\March2024Project\GitDemo\obj\Debug\net8.0\GitDemo.genruntimeconfig.cache
+C:\gitProjects\March2024Project\GitDemo\obj\Debug\net8.0\ref\GitDemo.dll
